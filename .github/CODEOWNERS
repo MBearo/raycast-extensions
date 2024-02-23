@@ -18,6 +18,7 @@
 /extensions/ai-gen                                   @josephschmitt @snilan
 /extensions/ai-humanizer                             @frolvanya
 /extensions/aimlab                                   @whitespacecode
+/extensions/air-quality                              @earthpyy
 /extensions/airplane                                 @pradeepb28
 /extensions/airpods-noise-control                    @chrahe @hllvc
 /extensions/airport                                  @siddharthsharma94
@@ -29,7 +30,7 @@
 /extensions/algolia                                  @valentindotxyz
 /extensions/aliyun-oss                               @yangxyo
 /extensions/alpinejs-doc-search                      @aurawindsurfing
-/extensions/amazon-aws                               @victor-falcon @Hodglim @JonathanWbn @gebeto @momme-rtf @duboiss @hexpl0it @crisboarna @sidhant92 @DorukAkinci @frese
+/extensions/amazon-aws                               @victor-falcon @Hodglim @JonathanWbn @gebeto @momme-rtf @duboiss @hexpl0it @crisboarna @sidhant92 @DorukAkinci @frese @nagauta
 /extensions/amazon-search                            @xilopaint
 /extensions/amphetamine                              @gstvds
 /extensions/android                                  @MohamedISoliman @3llomi
@@ -101,6 +102,7 @@
 /extensions/blockchain-explorer-search               @Namaskar-1F64F
 /extensions/blockchain-gas-tracker                   @vonernue
 /extensions/bluesky                                  @dkapila @peduarte
+/extensions/bmrks                                    @raunofreiberg @peduarte
 /extensions/bmw                                      @aesign
 /extensions/bob                                      @ViGeng
 /extensions/bonk-price                               @AnishDe12020
@@ -176,6 +178,7 @@
 /extensions/cloudflare                               @Destiner @niklaswa
 /extensions/cloudflare-warp                          @anandubajith
 /extensions/cloudinary                               @colbyfayock
+/extensions/cnpj-lookup                              @xilopaint
 /extensions/cobalt                                   @aelew
 /extensions/coda-bookmarks-search                    @allienx
 /extensions/code-review-emojis                       @rus64
@@ -232,6 +235,7 @@
 /extensions/cron-description                         @niall-maloney
 /extensions/crossbell                                @Songkeys
 /extensions/crunchbase                               @qdequele
+/extensions/crypto-price                             @gutenye
 /extensions/css-calculations                         @teziovsky
 /extensions/css-gg                                   @astrit
 /extensions/csv-to-excel                             @VictoRD11
@@ -377,6 +381,7 @@
 /extensions/ffmpeg                                   @RenderCoder @blekmus @aagedal
 /extensions/fibonacci-sequence                       @adambutler
 /extensions/figma-files                              @michaelwschultz @pernielsentikaer @GLaDO8
+/extensions/figma-learn-companion                    @MadMaxMcKinney
 /extensions/filamentphp-doc-seach                    @aurawindsurfing
 /extensions/file-manager                             @erics118 @BalliAsghar @urwrstkn8mare @fengtianze
 /extensions/filemaker-snippets                       @eluce2
@@ -422,6 +427,7 @@
 /extensions/gg-deals                                 @whitespacecode
 /extensions/gh-pic                                   @xiangsanliu
 /extensions/ghost-docs                               @royalfig
+/extensions/ghq                                      @konojunya
 /extensions/gif-search                               @josephschmitt @tmwrnr @j3lte
 /extensions/git-branch-name-generator                @michaelbonner
 /extensions/git-co-authors                           @nickradford @pernielsentikaer @mateusjunges
